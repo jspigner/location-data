@@ -1,8 +1,0 @@
-# Create location data 
-# Store values in variables 
-# All variables are STR 
-
-country = "USA"
-state = "Florida"
-city = "Miami"
-continent = "North America"
